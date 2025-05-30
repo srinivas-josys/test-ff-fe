@@ -1,0 +1,1 @@
+{"statusCode": 200, "body": "{\"message\": \"Step Functions Execution Started!\", \"account_id\": \"137575128411\", \"execution_arn\": \"arn:aws:states:ap-northeast-1:137575128411:execution:josys-qa-autostart:53662859-c5e2-4e64-975f-da651ee32f83\"}"}
