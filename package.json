@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@josys-src/josys-ff-ui-commons": "^0.0.1-beta7",
+    "@josys-src/josys-ff-ui-commons": "1.0.0",
     "next": "14.2.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
